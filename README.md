@@ -1,9 +1,8 @@
 ### Hi there 👋
-It's Hoang 
+It's me, Hoang. A data enthusiast guy :D
 
-- :zap: I love math, programming, data science, and books
-- 🌱 I’m addicted to learning and growing every day
-- :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
+- :zap: I love math, programming, data science, sport and books
+- 🌱 My maxim is "work hard - play hard". And I'm always trying my best to make myself better than yesterday.
 - 📫 How to find me: 
   - Blog: hoangxtr.github.io
   - Linkedin: https://www.linkedin.com/in/hoangxtr/
