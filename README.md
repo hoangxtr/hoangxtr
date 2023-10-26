@@ -1,4 +1,5 @@
-![image](https://github.com/hoangxtr/hoangxtr/assets/49335521/dd5ba4b2-e3c2-41eb-81b0-5473f06cfc6b)### Hi there 👋
+### Hi there 👋
+It's Hoang 
 
 - :zap: I love math, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
